@@ -4,12 +4,12 @@ This is a indexedbwrapper like kvs. It is build as esmodule.
 
 ## the purpose(目的)
 
-簡単に使えるようにするライブラリです。
+簡単に使えるようにするライブラリです。esmodule でブラウザ内の使用を想定しています。
 
 ## Usage
 
 ```
-npm -i indexeddbwrapper
+npm -i esindexedbwrapper
 ```
 
 js 内での利用方法
