@@ -1,0 +1,20 @@
+{
+	"name": "esindexedbwrapper",
+	"version": "0.0.11",
+	"description": "A indexeddb wrapper as like kvs.It is build as esmodule",
+	"main": "esIndexeddbWrapper.js",
+	"scripts": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ryunosinfx/ESIndexeddbWrapper.git"
+	},
+	"keywords": [
+		"indexeddb wrapper kvs"
+	],
+	"author": "ryunosinfx",
+	"license": "MIT",
+	"dependencies": {},
+	"devDependencies": {
+	}
+}

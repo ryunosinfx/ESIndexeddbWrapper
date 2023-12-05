@@ -1,5 +1,7 @@
 # ESIndexeddbWrapper
-This is a indexedbwrapper like kvs. build as esmodule.
+
+This is a indexedbwrapper like kvs. It is build as esmodule.
+
 ## the purpose(目的)
 
 簡単に使えるようにするライブラリです。
@@ -53,3 +55,4 @@ export class Test(){
     // 該当DBのObjectStore名一覧取得
     const objectStoreNames = await ac.getOsNames();
   }
+```
