@@ -1,7 +1,7 @@
 {
 	"name": "esindexedbwrapper",
 	"version": "0.0.11",
-	"description": "A indexeddb wrapper as like kvs.It is build as esmodule",
+	"description": "A indexeddb wrapper as like kvs.It is build as pure esmodule",
 	"main": "esIndexeddbWrapper.js",
 	"scripts": {
 	},
